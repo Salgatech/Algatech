@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Algatech
+- 👋 Hi, I’m @Salgatech
 - 👀 I’m interested in back and front end development, and modernising my skill-set.
 - 💻 I have commercial experience of using C, C++ and FORTRAN.
 - 🌱 I’m wanting to develop my understanding of OOD in Java and C#.
